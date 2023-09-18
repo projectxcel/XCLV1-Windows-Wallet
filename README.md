@@ -34,7 +34,7 @@ Add the following lines:
 
 addnode=157.245.89.194
 
-addnode=167.99.238.229
+addnode=134.122.127.128
 
 Server=1
 
