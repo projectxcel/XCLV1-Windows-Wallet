@@ -30,11 +30,6 @@ Navigate to Settings, select Options, and then click on "Open Configuration File
 
 Choose a text editor to modify the file. Notepad will work.
 
-Add the following lines:
-
-addnode=157.245.89.194
-
-addnode=134.122.127.128
 
 Server=1
 
